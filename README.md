@@ -18,6 +18,6 @@ You can calculate any digit of number using this simple python programmed calcul
 ![photo](https://e.top4top.io/p_1852c87t00.jpg)
 
 ## My Social Media ID
-+ ![YouTube](https://youtube.com/channel/UC2t1smKARnlzoqELbyEhXVw)
-+ ![Instagram](https://instagram.com/hackerx30)
-+ ![Github](https://github.com/MrHacker-X/)
++ [YouTube](https://youtube.com/channel/UC2t1smKARnlzoqELbyEhXVw)
++ [Instagram](https://instagram.com/hackerx30)
++ [Github](https://github.com/MrHacker-X/)
